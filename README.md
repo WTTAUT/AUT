@@ -1,2 +1,3 @@
 # AUT
-the African Union Token
+The African Union Token
+
