@@ -122,7 +122,7 @@ contract AUT is ERC20, ERC20TotalBurnable, ERC20Capped, ERC20Pausable, Vestable,
     }
 
      /**
-     * @dev Triggers stopped state.
+     * @dev Triggers stopped state in case of the emergency.
      *
      * Requirements:
      *
