@@ -1,3 +1,3 @@
 # AUT
-The African Union Token
+The African Union Token's smart contract.
 
